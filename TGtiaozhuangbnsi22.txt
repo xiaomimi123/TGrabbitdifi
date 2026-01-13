@@ -1,4 +1,2 @@
-https://t.me/Amanda33366
-https://t.me/wendy0671
-https://t.me/wendy0672
-https://t.me/Amanda33399
+https://api.whatsapp.com/send/?phone=15758748391&text&app_absent=0
+https://api.whatsapp.com/send/?phone=17073583680&text&app_absent=0
